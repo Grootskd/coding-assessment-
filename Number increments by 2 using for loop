@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <iostream>
+Int main()
+{
+ For(int a=0,a<=20,a+=2);
+ {
+  Cout<<a<<end;
+ }
+}
