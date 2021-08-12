@@ -1,6 +1,10 @@
 #include<stdio.h>
 #include<Conio.h>
+Main()
+{
 Int max=50;
 Int count=0;
-While (count<max) count+=2;
+While (count<max)
+ count+=2;
 Print("%d",count);
+}
